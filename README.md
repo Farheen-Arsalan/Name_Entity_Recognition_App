@@ -1,1 +1,0 @@
-# Name_Entity_Recognition_App
